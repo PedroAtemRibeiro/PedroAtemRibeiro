@@ -11,3 +11,9 @@
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAtemRibeiro&layout=compact&hide_border=true&title_color=EEDD82&text_color=EEDD82&bg_color=000000" />
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center"color="EEDD82"src="https://profile-counter.glitch.me/{PedroAtemRibeiro}/count.svg" /></p> 
+<br>
+</div>
