@@ -12,6 +12,15 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAtemRibeiro&layout=compact&hide_border=true&title_color=98FB98&text_color=98FB98&bg_color=000000" />
 </div>
 
+<br>
+<br>
+
+Main skills:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center"color="98FB98"src="https://profile-counter.glitch.me/{PedroAtemRibeiro}/count.svg" /></p> 
