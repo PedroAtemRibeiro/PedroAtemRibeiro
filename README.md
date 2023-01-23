@@ -1,16 +1,13 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA07A&height=120&section=header"/>
 
-<!--
-**PedroAtemRibeiro/PedroAtemRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA07A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Atem+Ribeiro;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAtemRibeiro&show_icons=true&count_private=true&hide_border=true&title_color=FFA07A&icon_color=FFA07A&text_color=c9d1d9&bg_color=000000" alt=" Pedro Atem RIbeiro github stats" /> 
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAtemRibeiro&layout=compact&hide_border=true&title_color=FFA07A&text_color=FFA07A&bg_color=000000" />
+</div>
