@@ -7,9 +7,9 @@
 
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAtemRibeiro&show_icons=true&count_private=true&hide_border=true&title_color=98FB98&icon_color=98FB98&text_color=c9d1d9&bg_color=000000" alt=" Pedro Atem RIbeiro github stats" /> 
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroAtemRibeiro&show_icons=true&count_private=true&hide_border=true&title_color=98FB98&icon_color=98FB98&text_color=c9d1d9&bg_color=000000" alt=" Pedro Atem RIbeiro github stats"/> 
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAtemRibeiro&layout=compact&hide_border=true&title_color=98FB98&text_color=98FB98&bg_color=000000" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAtemRibeiro&layout=compact&hide_border=true&title_color=98FB98&text_color=98FB98&bg_color=000000" />
 </div>
 
 <div align="center"> 
